@@ -1,1 +1,1 @@
-# Copy the URL link from this page and paste it back in the terminal
+# Copy the URL link of this page from the address bar and paste it back in the terminal to continue
